@@ -14,7 +14,7 @@ public class DataStorage {
     private final String driver = "com.mysql.jdbc.Driver";
     private final String url = "jdbc:mysql://Opetus1:3306/s1700306";
     private final String username = "s1700306";
-    private final String password = "96WXEJtQ";
+    private final String password = "********";
 
     //sql-lauseet 
     private final String sqlGetPerson = "select personID,name,"
